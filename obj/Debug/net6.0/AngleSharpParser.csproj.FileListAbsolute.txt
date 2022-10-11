@@ -1,0 +1,54 @@
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.exe
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.deps.json
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.runtimeconfig.json
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.dll
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.pdb
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.AssemblyReference.cache
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.AssemblyInfoInputs.cache
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.AssemblyInfo.cs
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.CoreCompileInputs.cache
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.CopyComplete
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.dll
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\refint\AngleSharpParser.dll
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.pdb
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.genruntimeconfig.cache
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\ref\AngleSharpParser.dll
+C:\Users\urdan\source\repos\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.exe
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.deps.json
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.runtimeconfig.json
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.dll
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.pdb
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.AssemblyReference.cache
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.AssemblyInfoInputs.cache
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.AssemblyInfo.cs
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.CoreCompileInputs.cache
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.CopyComplete
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.dll
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\refint\AngleSharpParser.dll
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.pdb
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.genruntimeconfig.cache
+C:\Users\urdan\Desktop\Новая папка\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\ref\AngleSharpParser.dll
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.exe
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.deps.json
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.runtimeconfig.json
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.dll
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharpParser.pdb
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.AssemblyReference.cache
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.AssemblyInfoInputs.cache
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.AssemblyInfo.cs
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.CoreCompileInputs.cache
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.csproj.CopyComplete
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.dll
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\refint\AngleSharpParser.dll
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.pdb
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\AngleSharpParser.genruntimeconfig.cache
+C:\Users\urdan\Desktop\AngleSharpParser\AngleSharpParser\obj\Debug\net6.0\ref\AngleSharpParser.dll

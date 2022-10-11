@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ER3mq45nHq4ftUkPPrdDEO2dkoENNum7JBjxE3sOhAYX0P176oHTsP8vmySBqM0nIY/KTWkrfWyqC+iJhifyCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\urdan\\Desktop\\AngleSharpParser\\AngleSharpParser\\AngleSharpParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\urdan\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\urdan\\.nuget\\packages\\csvhelper\\29.0.0\\csvhelper.29.0.0.nupkg.sha512",
+    "C:\\Users\\urdan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\urdan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\urdan\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
